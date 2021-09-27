@@ -1,0 +1,14 @@
+target
+.idea
+*.iml
+tc_data
+user_data
+test_data
+!test_data/lineitem
+!test_data/results
+.classpath
+.project
+.settings
+*.ipynb
+*.log
+*.csv
